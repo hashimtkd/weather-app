@@ -4,7 +4,6 @@ import 'package:weather_sample/controller/searchBox_provider.dart';
 import 'package:weather_sample/controller/wetherService_provider.dart';
 import 'package:weather_sample/view/home_page.dart';
 import 'package:weather_sample/controller/location_provider.dart';
-import 'package:weather_sample/view/splaash_screen.dart';
 
 void main() async {
   runApp(const MyApp());
